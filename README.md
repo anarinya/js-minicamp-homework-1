@@ -1,4 +1,6 @@
 # Homework #1
+Forked LamdaSchool Mini JavaScript Bootcamp Homework 1.
+Leaving instructions for reference, completed exercises.js to make tests pass.
 
 ## Instructions
 ---
